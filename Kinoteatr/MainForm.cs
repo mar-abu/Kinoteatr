@@ -18,7 +18,7 @@ namespace Kinoteatr
             InitializeComponent();
 
         }
-
+        //
         private int GetCurrentUserId()
         {
             return 1; // Статический ID пользователя
